@@ -1,0 +1,1 @@
+sudo pip2 install numpy pandas scipy scikit-learn scikit-image
