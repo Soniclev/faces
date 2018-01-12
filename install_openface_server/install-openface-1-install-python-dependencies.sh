@@ -1,1 +1,1 @@
-sudo pip2 install numpy pandas scipy scikit-learn scikit-image flask
+sudo pip2 install numpy pandas scipy scikit-learn scikit-image flask Pillow
