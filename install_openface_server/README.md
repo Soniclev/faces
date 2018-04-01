@@ -1,3 +1,5 @@
+This description in [English](install_openface_server/README.md)
+
 # Что это?
 Это скрипты, которые позволяют быстро установить [openface](https://github.com/cmusatyalab/openface) на **Debian 9 32bit** и всех его зависимости без головной боли и постояного гугления ошибок.
 
